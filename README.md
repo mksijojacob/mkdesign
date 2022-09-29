@@ -1,2 +1,0 @@
-# mkdesign
-MediaKind Design System
